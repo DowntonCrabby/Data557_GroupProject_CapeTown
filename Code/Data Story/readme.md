@@ -14,7 +14,7 @@ Data557_FinalProject_Q2_DataStory.ipynb
 
 Click **Open in Colab** at the top of the notebook preview.
 
-![Open Notebook in Colab](readme images/open_in_colab.png)
+![Open Notebook in Colab](./readme_images/open_in_colab.png)
 
 This will launch the notebook in a new Google Colab session.
 
@@ -30,7 +30,7 @@ cleaned_longitudinal_dataset.csv
 
 Open the dataset file in GitHub and click **Download raw file**.
 
-![Download Dataset](readme images/download_raw_dataset.png)
+![Download Dataset](./readme_images/download_raw_dataset.png)
 
 Save the file to your local machine.
 
@@ -42,7 +42,7 @@ In the Colab environment, open the **Files panel** on the left side of the scree
 
 Drag the dataset into the upload area or use the upload button.
 
-![Upload Dataset](readme images/upload_dataset_colab.png)
+![Upload Dataset](./readme_images/upload_dataset_colab.png)
 
 Once uploaded, the file will appear in the Colab file browser and the notebook will be able to load it.
 
